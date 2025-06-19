@@ -1,5 +1,7 @@
 # PBIFinanzasPersonales
 
+Del [Curso Power BI - Análisis de Datos y Business Intelligence](https://www.udemy.com/certificate/UC-a77da13e-980d-47d0-95d4-8c511ec688e5/)
+
 Dashboard interactivo de finanzas personales, muestra ingresos, gastos, utilidad y saldo con medidores, tendencias mensuales y tablas de datos. Ofrece una visión completa del rendimiento financiero, con detalles por categorías (Online y Otros) y comparativas año a año.
 
 Página 1: muestra un dashboard de finanzas personales para el año 2020 (o 2019). Contiene cuatro medidores de porcentaje (tipo "gauge chart") que indican el rendimiento de "Cuota ingresos" (114%), "Cuota gastos" (100%), "Cuota utilidad" (150%) y "Cuota saldo" (108%). Al lado de cada medidor, se presentan los valores actuales y las metas o presupuestos correspondientes.
